@@ -1,4 +1,3 @@
-
 from boardgamegeek_client.client.client import BoardGameGeekClient
 
 
