@@ -18,10 +18,10 @@ dependencies = [
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.4.2"
-black = "^25.1.0"
-ruff = "^0.12.10"
-mypy = "^1.17.1"
-pytest-cov = "^6.2.1"
+black = "^25.9.0"
+ruff = "^0.13.3"
+mypy = "^1.18.2"
+pytest-cov = "^7.0.0"
 pre-commit = "^4.3.0"
 
 [build-system]
